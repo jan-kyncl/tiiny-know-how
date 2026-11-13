@@ -50,6 +50,7 @@ real-world upgrade process.
 | Security — observations & open concerns (speculative) | [docs/en/security.md](docs/en/security.md) |
 | Troubleshooting | [docs/en/troubleshooting.md](docs/en/troubleshooting.md) |
 | Related community projects | [docs/en/community-projects.md](docs/en/community-projects.md) |
+| Example scripts (speech-to-text, song gen, curl) | [examples/](examples/) |
 
 ## In one minute
 
@@ -122,6 +123,7 @@ všechna API, síť (včetně triku s USB-C Ethernetem), modely, CLI, SSH a reá
 | Bezpečnost — pozorování a obavy (spekulativní) | [docs/cs/security.md](docs/cs/security.md) |
 | Řešení potíží | [docs/cs/troubleshooting.md](docs/cs/troubleshooting.md) |
 | Související komunitní projekty | [docs/cs/community-projects.md](docs/cs/community-projects.md) |
+| Ukázkové skripty (přepis řeči, generování písní, curl) | [examples/](examples/) |
 
 ## V jedné minutě
 
