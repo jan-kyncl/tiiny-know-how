@@ -47,6 +47,7 @@ real-world upgrade process.
 | CLI & SSH | [docs/en/cli-and-ssh.md](docs/en/cli-and-ssh.md) |
 | Services (apps) & connectors (MCP) | [docs/en/services-and-connectors.md](docs/en/services-and-connectors.md) |
 | OTA upgrade — the field guide (what quick start skips) | [docs/en/ota-upgrade.md](docs/en/ota-upgrade.md) |
+| Security — observations & open concerns (speculative) | [docs/en/security.md](docs/en/security.md) |
 | Troubleshooting | [docs/en/troubleshooting.md](docs/en/troubleshooting.md) |
 | Related community projects | [docs/en/community-projects.md](docs/en/community-projects.md) |
 
@@ -118,6 +119,7 @@ všechna API, síť (včetně triku s USB-C Ethernetem), modely, CLI, SSH a reá
 | CLI a SSH | [docs/cs/cli-and-ssh.md](docs/cs/cli-and-ssh.md) |
 | Služby (aplikace) a konektory (MCP) | [docs/cs/services-and-connectors.md](docs/cs/services-and-connectors.md) |
 | OTA upgrade — terénní průvodce (co quick start vynechává) | [docs/cs/ota-upgrade.md](docs/cs/ota-upgrade.md) |
+| Bezpečnost — pozorování a obavy (spekulativní) | [docs/cs/security.md](docs/cs/security.md) |
 | Řešení potíží | [docs/cs/troubleshooting.md](docs/cs/troubleshooting.md) |
 | Související komunitní projekty | [docs/cs/community-projects.md](docs/cs/community-projects.md) |
 
