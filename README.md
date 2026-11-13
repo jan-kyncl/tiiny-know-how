@@ -12,6 +12,25 @@ and connectors. Collected from hands-on testing plus other community projects.
 
 ---
 
+## What is Tiiny?
+
+**Tiiny Pocket** is a compact, self-contained **local AI appliance** — a small box you keep on your
+desk that runs modern AI models **entirely on-device**, with no cloud inference. It pairs an ARM SoC
+with a **discrete NPU and 80 GB of memory**, so it can host large language models (chat up to ~120B
+MoE), image generation, speech-to-text, embeddings and more, all locally.
+
+You talk to it over plain **HTTP on your own network** — it speaks OpenAI-, Ollama- and
+Anthropic-compatible APIs — so existing tools and chat front-ends connect to it unchanged. Because the
+models and your data never leave the box, it's aimed at **private, offline, always-available** AI: a
+personal inference server the size of a small gadget. Set-up and OS updates are driven by the TiinyOS
+desktop app; everything else is the API documented here.
+
+This repo is the **community know-how** that the official quick start doesn't cover — how the box is
+built, every API surface, networking (including the USB-C Ethernet trick), models, the CLI, SSH, and the
+real-world upgrade process.
+
+---
+
 ## Contents
 
 | Topic | Doc |
@@ -56,6 +75,22 @@ Sesbíráno z vlastního testování a z dalších komunitních projektů.
 > **Bez vazby** na Tiiny / dev.tiiny.ai. Bez záruky — příkazy zde mohou měnit stav zařízení.
 > Nic zde neobsahuje tajemství; každý zástupný `<TOKEN>` / `<ip>` nahraď vlastními hodnotami.
 > Ověřeno proti **TiinyOS firmware 0.1.39** (desktop app 1.0.3), listopad 2026.
+
+## Co je Tiiny?
+
+**Tiiny Pocket** je kompaktní, soběstačné **lokální AI zařízení** — malý box na stole, který provozuje
+moderní AI modely **kompletně v zařízení**, bez cloudové inference. Spojuje ARM SoC s **diskrétním NPU a
+80 GB paměti**, takže zvládne velké jazykové modely (chat až ~120B MoE), generování obrázků, přepis
+řeči, embeddingy a další — všechno lokálně.
+
+Komunikuješ s ním přes obyčejné **HTTP ve vlastní síti** — mluví API kompatibilním s OpenAI, Ollama i
+Anthropic — takže se k němu stávající nástroje a chatovací frontendy připojí beze změny. Protože modely
+ani tvoje data box neopouštějí, míří na **soukromou, offline, stále dostupnou** AI: osobní inferenční
+server velikosti drobného gadgetu. Instalaci a OS updaty řídí desktopová aplikace TiinyOS; všechno
+ostatní je API popsané tady.
+
+Tohle repo je **komunitní know-how**, které oficiální quick start nepokrývá — jak je box postavený,
+všechna API, síť (včetně triku s USB-C Ethernetem), modely, CLI, SSH a reálný průběh upgradu.
 
 ## Obsah
 
