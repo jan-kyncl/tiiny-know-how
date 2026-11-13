@@ -1,8 +1,8 @@
 # Tiiny Pocket — community know-how
 
-![Tiiny AI Pocket Lab held in a hand](docs/images/tiiny-pocket.jpg)
+![A Tiiny Pocket with a USB-C Ethernet adapter in its second port](docs/images/tiiny-pocket.jpg)
 
-<sub>The Tiiny AI Pocket Lab. Product photo © Tiiny AI (via [NotebookCheck](https://www.notebookcheck.net/Tiiny-AI-Pocket-Lab-Mini-PC-with-12-core-ARM-CPU-and-80-GB-LPDDR5X-memory-unveiled-ahead-of-CES.1182794.0.html)) — included for reference, **not** covered by this repo's license.</sub>
+<sub>A Tiiny Pocket in the wild — note the USB-C → Ethernet adapter in the second USB-C port, which puts the box straight on the LAN (see [networking](docs/en/networking.md)).</sub>
 
 Unofficial, community-gathered notes on the **Tiiny Pocket** local AI box (model *Tiiny z01*):
 hardware internals, the on-device HTTP API, networking, the official CLI, SSH, models, services
