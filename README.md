@@ -39,6 +39,11 @@ and connectors. Collected from hands-on testing plus other community projects.
   community tooling can enroll your own key.
 - Models load on demand; the box does roughly **one inference at a time**.
 
+## Acknowledgements
+
+Built on the work of the wider Tiiny community. Full credits and links to every repo we cite or drew
+inspiration from are in [docs/en/community-projects.md](docs/en/community-projects.md).
+
 ---
 ---
 
@@ -78,3 +83,8 @@ Sesbíráno z vlastního testování a z dalších komunitních projektů.
 - **Není webové admin rozhraní ani oficiální shell**. SSH server poslouchá na **portu 3588** (jen klíč);
   komunitní nástroje umí přidat vlastní klíč.
 - Modely se načítají na vyžádání; box zvládá zhruba **jednu inferenci naráz**.
+
+## Poděkování
+
+Staví na práci širší Tiiny komunity. Kompletní credits a odkazy na každé repo, které citujeme nebo jímž
+jsme se inspirovali, jsou v [docs/cs/community-projects.md](docs/cs/community-projects.md).
