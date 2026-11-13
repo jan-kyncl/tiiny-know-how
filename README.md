@@ -23,6 +23,7 @@ and connectors. Collected from hands-on testing plus other community projects.
 | Models & custom model import | [docs/en/models.md](docs/en/models.md) |
 | CLI & SSH | [docs/en/cli-and-ssh.md](docs/en/cli-and-ssh.md) |
 | Services (apps) & connectors (MCP) | [docs/en/services-and-connectors.md](docs/en/services-and-connectors.md) |
+| OTA upgrade — the field guide (what quick start skips) | [docs/en/ota-upgrade.md](docs/en/ota-upgrade.md) |
 | Troubleshooting | [docs/en/troubleshooting.md](docs/en/troubleshooting.md) |
 | Related community projects | [docs/en/community-projects.md](docs/en/community-projects.md) |
 
@@ -62,6 +63,7 @@ Sesbíráno z vlastního testování a z dalších komunitních projektů.
 | Modely a import vlastních modelů | [docs/cs/models.md](docs/cs/models.md) |
 | CLI a SSH | [docs/cs/cli-and-ssh.md](docs/cs/cli-and-ssh.md) |
 | Služby (aplikace) a konektory (MCP) | [docs/cs/services-and-connectors.md](docs/cs/services-and-connectors.md) |
+| OTA upgrade — terénní průvodce (co quick start vynechává) | [docs/cs/ota-upgrade.md](docs/cs/ota-upgrade.md) |
 | Řešení potíží | [docs/cs/troubleshooting.md](docs/cs/troubleshooting.md) |
 | Související komunitní projekty | [docs/cs/community-projects.md](docs/cs/community-projects.md) |
 
