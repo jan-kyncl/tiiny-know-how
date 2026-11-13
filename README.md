@@ -1,5 +1,9 @@
 # Tiiny Pocket — community know-how
 
+![Tiiny AI Pocket Lab held in a hand](docs/images/tiiny-pocket.jpg)
+
+<sub>The Tiiny AI Pocket Lab. Product photo © Tiiny AI (via [NotebookCheck](https://www.notebookcheck.net/Tiiny-AI-Pocket-Lab-Mini-PC-with-12-core-ARM-CPU-and-80-GB-LPDDR5X-memory-unveiled-ahead-of-CES.1182794.0.html)) — included for reference, **not** covered by this repo's license.</sub>
+
 Unofficial, community-gathered notes on the **Tiiny Pocket** local AI box (model *Tiiny z01*):
 hardware internals, the on-device HTTP API, networking, the official CLI, SSH, models, services
 and connectors. Collected from hands-on testing plus other community projects.
