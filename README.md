@@ -67,6 +67,16 @@ real-world upgrade process.
 Built on the work of the wider Tiiny community. Full credits and links to every repo we cite or drew
 inspiration from are in [docs/en/community-projects.md](docs/en/community-projects.md).
 
+## Official links
+
+- **tiiny.ai** — <https://tiiny.ai> — the official product site.
+- **dev.tiiny.ai** — <https://dev.tiiny.ai> — the developer portal (API docs, CLI).
+
+## License
+
+[MIT](LICENSE). These are independent community notes, not affiliated with or endorsed by Tiiny AI;
+"Tiiny" and product names belong to their owner.
+
 ---
 ---
 
@@ -127,3 +137,13 @@ všechna API, síť (včetně triku s USB-C Ethernetem), modely, CLI, SSH a reá
 
 Staví na práci širší Tiiny komunity. Kompletní credits a odkazy na každé repo, které citujeme nebo jímž
 jsme se inspirovali, jsou v [docs/cs/community-projects.md](docs/cs/community-projects.md).
+
+## Oficiální odkazy
+
+- **tiiny.ai** — <https://tiiny.ai> — oficiální produktový web.
+- **dev.tiiny.ai** — <https://dev.tiiny.ai> — vývojářský portál (API dokumentace, CLI).
+
+## Licence
+
+[MIT](LICENSE). Jde o nezávislé komunitní poznámky, bez vazby na Tiiny AI a bez jejich podpory; „Tiiny“
+a názvy produktů patří jejich vlastníkovi.
