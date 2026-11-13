@@ -32,6 +32,10 @@ full API is reachable over it exactly like Wi-Fi — just with a stable, faster 
   **not** opened on `eth0` either, so the adapter buys you stability and speed, not "more ports".
 - An earlier community claim that "the adapter does nothing without an intermediary" was wrong.
 
+Proof — TiinyOS *Networks* panel showing `eth0` connected on the LAN alongside Wi-Fi (`wlan0`):
+
+![TiinyOS Networks: eth0 and wlan0 both connected with local IPs](../images/tiiny-networks-eth0.png)
+
 ## Discovery
 
 Every interface answers a discovery endpoint:

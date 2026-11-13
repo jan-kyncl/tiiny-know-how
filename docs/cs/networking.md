@@ -32,6 +32,10 @@ jako přes Wi-Fi — jen po stabilní a rychlejší kabelové lince.
   `eth0` **neotevřou**, takže adaptér přináší stabilitu a rychlost, ne „víc portů“.
 - Dřívější komunitní tvrzení, že „adaptér bez prostředníka nic nedělá“, bylo chybné.
 
+Důkaz — panel *Networks* v TiinyOS: `eth0` připojený do LAN vedle Wi-Fi (`wlan0`):
+
+![TiinyOS Networks: eth0 i wlan0 připojené s lokálními IP](../images/tiiny-networks-eth0.png)
+
 ## Discovery
 
 Každé rozhraní odpovídá na discovery endpoint:
